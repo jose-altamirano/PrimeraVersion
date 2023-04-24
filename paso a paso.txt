@@ -1,0 +1,21 @@
+Crear una carpeta
+Dentro de la carpeta, click derecho y hacer git bash here
+Dentro del editor de comandos hacer:
+git clone http//github.com....(aqui colocar el link de mi repo)
+cerrar el comando
+entrar a la carpeta que se clono del repo vacia
+Adentro de esta carpeta copiar los archivos del proyecto
+Adentro de esta carpeta hacer git bash here:
+Git status
+Git add .
+git status
+git branch develop
+git branch
+git checkout develop
+git commit -a -m "cursos creados"
+
+git push -u origin
+
+git push -u origin develop
+
+con estos pasos envio mi proyecto al repo remoto
